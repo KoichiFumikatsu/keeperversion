@@ -4,7 +4,7 @@
   <description asmv2:iconFile="ico_gray.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AZC Keeper" version="1.0.0.3" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="AZC Keeper" version="1.0.0.4" language="neutral" processorArchitecture="msil" />
     <commandLine file="AZC Keeper.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,13 +44,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AZC Keeper.exe" size="71096">
-      <assemblyIdentity name="AZC Keeper" version="1.0.0.3" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="AZC Keeper" version="1.0.0.4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>y7PJZg1c2Hch2+VB5ZMxPnvdrIvPdO0eRN8EIQ2XhLQ=</dsig:DigestValue>
+        <dsig:DigestValue>4sq2mfxWdD64/GDFRdIi1Dh5Vg8a8pGEy8ntXUcgmb0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
